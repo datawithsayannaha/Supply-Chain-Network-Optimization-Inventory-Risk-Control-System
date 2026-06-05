@@ -41,11 +41,6 @@ Finally, I developed a fully interactive Excel dashboard system to analyze:
 
 ---
 
-## 🛤️ Project Roadmap
-
-![Project Roadmap](images/Data_Model.png)
-
----
 
 ## 🛠️ Tools & Technologies
 
