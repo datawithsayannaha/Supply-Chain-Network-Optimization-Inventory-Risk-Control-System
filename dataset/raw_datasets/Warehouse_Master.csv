@@ -1,0 +1,16 @@
+WarehouseID,WarehouseName,City,Region,WarehouseCapacity,WarehouseType,ManagerName
+W001,Warehouse_1,Parsonsfort,South,170887,Central,Michael Moore
+W002,Warehouse_2,Mendezchester,East,170473,Regional,Joseph Mckinney
+W003,Warehouse_3,Lake Jessica,North,285643,Regional,Ariel Montgomery
+W004,Warehouse_4,Barrerabury,East,227631,Central,John Butler
+W005,Warehouse_5,North Christianburgh,South,69362,Regional,Kurt Marks
+W006,Warehouse_6,Brandonstad,East,204028,Regional,Rachel Davis
+W007,Warehouse_7,Sotochester,West,230961,Regional,Jose Lloyd
+W008,Warehouse_8,Chaveztown,West,271591,Regional,Alexandra Estrada
+W009,Warehouse_9,Allenmouth,South,150845,Regional,Matthew Boyd
+W010,Warehouse_10,West Mark,North,112182,Regional,Steven Parker
+W011,Warehouse_11,Sellerstown,Central,144098,Central,Katherine Howe
+W012,Warehouse_12,East Garretttown,East,233311,Regional,Rhonda Thomas
+W013,Warehouse_13,New Christopher,North,267589,Central,Thomas Wolfe
+W014,Warehouse_14,West Michaelborough,West,121953,Distribution,Paul Harris
+W015,Warehouse_15,Hollowaymouth,Central,276772,Central,John Forbes

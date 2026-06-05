@@ -1,0 +1,26 @@
+SupplierID,SupplierName,Country,City,LeadTimeDays,SupplierRating,OnTimeDeliveryPct,ContractType,ContactEmail
+S001,Larson Ltd,Malaysia,Lisaville,10,3.9,84,Quarterly,christina67@berg.com
+S002,"Hess, Henderson and Medina",China,Lake Brandonberg,22,4,84,Annual,gmartinez@taylor-bonilla.com
+S003,Kelley Ltd,Singapore,East Lauriefort,27,4.6,93,Quarterly,gortega@alexander.net
+S004,"Valencia, Watson and Castro",Vietnam,Charlesburgh,11,4.6,89,Multi-Year,butlergregory@peck.com
+S005,Mcdaniel Ltd,Singapore,South Danielle,29,4.2,95,Annual,fjones@page.com
+S006,"Smith, Soto and Castillo",Malaysia,Nathanborough,20,4,90,Multi-Year,aevans@nunez.org
+S007,Rodriguez-Webb,Vietnam,South Robert,15,3.9,90,Annual,sheila42@evans-cross.com
+S008,Hunt Inc,Thailand,Brittanyport,10,4.1,87,Quarterly,michaelgraham@brooks-williams.com
+S009,"Gutierrez, Mendoza and Little",India,Simonton,13,4.5,92,Quarterly,sandersrichard@sullivan.com
+S010,Phillips-Moore,Thailand,Kellyside,28,4.6,84,Quarterly,garciajohnny@miller.com
+S011,Mann LLC,India,Greenchester,7,4,98,Quarterly,johnny30@briggs.com
+S012,Diaz and Sons,India,Jillmouth,30,4.7,83,Multi-Year,fweiss@wagner-simmons.biz
+S013,Washington-Owens,Malaysia,Port Candaceland,3,4.4,93,Multi-Year,brian75@coleman.biz
+S014,Pearson-Manning,China,Wilsonhaven,5,3.9,88,Quarterly,marygray@brennan-neal.net
+S015,Bailey-Mcbride,Vietnam,North Emilyville,25,3.8,82,Quarterly,watsonjonathan@perry.com
+S016,"Schwartz, Harper and Cole",Thailand,Lake Victoria,30,4.1,90,Multi-Year,holtjesse@carrillo.org
+S017,Hall Inc,Thailand,Younghaven,27,4,97,Annual,caitlin88@wood-ewing.com
+S018,Lewis-Lee,Vietnam,Port Oscarland,5,3.5,89,Annual,tmyers@hill-mcclure.info
+S019,"Garcia, Carey and Hammond",Thailand,Kennethtown,5,3.9,83,Multi-Year,jason85@little.com
+S020,"Taylor, Ryan and Briggs",Thailand,Johnborough,30,3.2,85,Multi-Year,alison46@carrillo.info
+S021,"Harris, Morgan and Bennett",Singapore,Kimborough,3,3.1,81,Quarterly,wrightjames@martin-bradley.org
+S022,"Reyes, Moore and Day",Singapore,Jenkinston,14,3.9,87,Multi-Year,xhunt@nelson.com
+S023,Howard-Pittman,Malaysia,South Laura,21,4.4,85,Annual,nicholasvillarreal@richmond.com
+S024,Garcia Ltd,China,West Kylehaven,5,4.2,92,Multi-Year,vwong@gallegos.info
+S025,Hill PLC,Thailand,New Marie,10,4,98,Annual,hendersonkevin@roberts.net
