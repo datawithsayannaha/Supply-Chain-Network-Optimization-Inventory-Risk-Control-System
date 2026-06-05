@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice,ProductWeightKG,ShelfLifeDays,ABCClass,AnnualDemand,OrderingCostDefault
+P001,LED Monitor,Monitors,LED Monitor,Lenovo,1496.02,1885.29,11.1,1750,B,40741,178.24
+P002,RAM,Components,RAM,Logitech,108.1,134.95,9.11,1514,C,18031,744.42
+P003,RAM,Components,RAM,Dell,925.96,1180.77,11.43,691,C,32696,406.23
+P004,SSD,Storage,SSD,HP,1916.57,2494.35,5.82,1100,C,27541,643.35
+P005,Ultrabook,Laptops,Ultrabook,Cisco,945.88,1140.89,1.37,965,A,46198,656.67
+P006,Webcam,Accessories,Webcam,Asus,424.96,502.01,11.64,528,A,20256,879.84
+P007,Motherboard,Components,Motherboard,Lenovo,934.15,1424.91,5.68,794,A,48920,340.28
+P008,4K Monitor,Monitors,4K Monitor,Asus,1288.21,1791.08,2.62,1142,C,22691,990.57
+P009,Access Point,Networking,Access Point,Dell,682.35,1020.62,3.59,430,C,25673,461.05
+P010,LED Monitor,Monitors,LED Monitor,Samsung,1830.62,2572.44,3.35,1387,C,30928,896.21
+P011,Rack Server,Servers,Rack Server,Logitech,566.52,714.37,8.18,1894,A,43311,485.59
+P012,Motherboard,Components,Motherboard,Logitech,477.68,763.76,7.5,1912,C,8087,874.99
+P013,NVMe Drive,Storage,NVMe Drive,Seagate,361.96,527.09,1.14,1146,C,44052,996.51
+P014,Laser Printer,Printers,Laser Printer,Logitech,1376.55,1653.99,11.31,1939,B,47006,406.16
+P015,Inkjet Printer,Printers,Inkjet Printer,Acer,358.41,412.69,14.58,1925,A,16708,556.91
+P016,4K Monitor,Monitors,4K Monitor,Seagate,631.97,908.47,3.14,1130,A,15587,585.44
+P017,Ultrabook,Laptops,Ultrabook,Samsung,682.1,790.39,13.21,994,B,20692,152.13
+P018,LED Monitor,Monitors,LED Monitor,Logitech,1477.22,2241.25,11.53,627,C,48237,527.75
+P019,External HDD,Storage,External HDD,Asus,1078.96,1535.32,13.95,1911,B,18182,741.65
+P020,GPU,Components,GPU,Logitech,1317.26,1774.54,6.88,872,B,19725,157.62
+P021,Ultrabook,Laptops,Ultrabook,Dell,1130.15,1598.93,1.25,1657,C,8858,306.05
+P022,Business Laptop,Laptops,Business Laptop,Canon,188.17,236.55,3.37,635,A,42423,618.59
+P023,Switch,Networking,Switch,HP,1624.62,2007.52,9.95,1090,B,32759,469.99
+P024,Ultrabook,Laptops,Ultrabook,Dell,1324.24,1907.94,6.16,1059,B,12161,323.79
+P025,Access Point,Networking,Access Point,Acer,924.8,1239.09,7.05,519,B,34041,827.22
+P026,LED Monitor,Monitors,LED Monitor,Dell,1321.68,1841.45,14.54,1908,C,20491,249.68
+P027,Tower Server,Servers,Tower Server,Dell,466.81,621.08,2.64,369,A,30586,338.68
+P028,Tower Server,Servers,Tower Server,Logitech,874.86,1382.97,10,1361,C,15144,270.91
+P029,Router,Networking,Router,Samsung,1179.4,1644.07,1.05,1561,C,36246,552.57
+P030,SSD,Storage,SSD,Lenovo,1923.52,2281.39,1.21,504,A,49250,875.64
+P031,RAM,Components,RAM,Seagate,1886.11,2652.54,9,1633,C,10372,477.3
+P032,Mouse,Accessories,Mouse,Asus,448.31,660.04,4.13,633,A,49019,680.95
+P033,Tower Server,Servers,Tower Server,Dell,1861.59,2924.71,6.98,1518,A,11552,165.93
+P034,Access Point,Networking,Access Point,HP,567.14,890.39,13.21,1121,C,23676,241.97
+P035,Laser Printer,Printers,Laser Printer,HP,1352.33,1892.68,14.1,640,C,22332,203.89
+P036,4K Monitor,Monitors,4K Monitor,Seagate,1128.79,1436.45,3.32,1067,C,18342,718.75
+P037,Inkjet Printer,Printers,Inkjet Printer,Dell,539.69,841.2,1.57,1232,B,23132,139.68
+P038,Keyboard,Accessories,Keyboard,Canon,1292.37,1638.57,8.36,1240,A,41759,108.7
+P039,4K Monitor,Monitors,4K Monitor,Samsung,1812.66,2529.6,8.82,668,C,33166,214.7
+P040,Inkjet Printer,Printers,Inkjet Printer,Dell,1803.01,2719.4,13.5,795,B,49699,324.58
+P041,Curved Monitor,Monitors,Curved Monitor,Cisco,1571.23,2432.05,14.61,1899,A,15128,933.19
+P042,Router,Networking,Router,Cisco,1953.6,2959.41,0.57,1873,B,26770,804.15
+P043,GPU,Components,GPU,Acer,1734.92,2628.12,2.56,1801,A,12084,444.29
+P044,Business Laptop,Laptops,Business Laptop,Canon,483.75,734.07,5.37,1993,C,19915,300.63
+P045,Switch,Networking,Switch,Acer,690.11,1062.05,5.4,1408,B,31193,711.57
+P046,Keyboard,Accessories,Keyboard,Lenovo,274.92,436.21,8.79,908,C,7507,197.56
+P047,Motherboard,Components,Motherboard,Seagate,1470.66,1898.85,14.77,601,B,30244,909.55
+P048,Switch,Networking,Switch,Logitech,136.55,183.83,13.9,1467,C,48950,277.33
+P049,RAM,Components,RAM,Seagate,1900.31,2972.74,4.85,620,C,24681,556.41
+P050,Motherboard,Components,Motherboard,Lenovo,834.68,1070.93,3.04,1726,A,29847,709.59
+P051,NVMe Drive,Storage,NVMe Drive,Dell,1159.76,1545.65,4.7,795,C,33173,807.18
+P052,Mouse,Accessories,Mouse,Logitech,911.48,1325.32,7.2,1995,C,16120,692.97
+P053,Inkjet Printer,Printers,Inkjet Printer,Asus,232.11,366.36,10.16,825,C,18050,232.62
+P054,Gaming Laptop,Laptops,Gaming Laptop,HP,1968.68,2805.51,6.94,1654,C,42727,274.99
+P055,Motherboard,Components,Motherboard,Dell,829.32,1008.79,13.41,1942,C,11985,800.58
+P056,Router,Networking,Router,Canon,1618.01,2367.41,0.94,875,C,12953,510.82
+P057,Tower Server,Servers,Tower Server,Seagate,1902.58,2951.17,12.26,1398,A,32966,847.51
+P058,Rack Server,Servers,Rack Server,Acer,1500.13,2045.58,11.33,1670,A,23173,789.23
+P059,Rack Server,Servers,Rack Server,Acer,585.47,693.7,3.67,1052,A,25952,903.72
+P060,LED Monitor,Monitors,LED Monitor,Lenovo,344.12,455.05,10.66,496,B,32188,466.84
+P061,Tower Server,Servers,Tower Server,Cisco,171.42,261.38,13.59,1561,B,6280,871.06
+P062,Motherboard,Components,Motherboard,Cisco,61.5,80.46,12.83,1223,B,40272,772.76
+P063,Switch,Networking,Switch,Dell,477.87,643.27,5.96,1734,C,49508,818.33
+P064,External HDD,Storage,External HDD,Logitech,1843.11,2932.99,0.6,1171,B,43790,607.95
+P065,Gaming Laptop,Laptops,Gaming Laptop,Canon,1303.36,1578.45,2.89,897,B,29844,394.62
+P066,Tower Server,Servers,Tower Server,Acer,708.13,1094.65,11.33,1228,C,21532,851.42
+P067,Rack Server,Servers,Rack Server,Samsung,1510.6,1772.6,3.52,505,A,47713,136.23
+P068,Gaming Laptop,Laptops,Gaming Laptop,Lenovo,438.75,508.59,3.73,1334,C,48873,202.95
+P069,Switch,Networking,Switch,Lenovo,1413.96,2114.02,9.17,1896,A,12506,800.01
+P070,External HDD,Storage,External HDD,Acer,260.79,302.92,8.72,1133,C,30995,947.32
+P071,Router,Networking,Router,Asus,1204.59,1835.5,1.71,1947,C,24764,865.26
+P072,4K Monitor,Monitors,4K Monitor,Cisco,1576.14,2058.82,9.99,506,A,38158,682.79
+P073,Business Laptop,Laptops,Business Laptop,Samsung,1653.55,1980.11,9.61,1306,A,15026,491.94
+P074,Inkjet Printer,Printers,Inkjet Printer,Seagate,956.5,1455.39,4.17,867,C,10679,351.04
+P075,Rack Server,Servers,Rack Server,Cisco,1513.43,2128.54,5.18,1377,C,26300,263.66
+P076,Switch,Networking,Switch,Seagate,1605.77,2092.56,10.58,930,C,41424,109.14
+P077,Router,Networking,Router,Logitech,520.64,693.96,11.42,1779,C,36201,681.31
+P078,Tower Server,Servers,Tower Server,Asus,1596.22,1902.49,6.19,863,A,25067,697.56
+P079,Mouse,Accessories,Mouse,Logitech,1129.27,1473.35,5.1,1804,B,34736,343.82
+P080,Laser Printer,Printers,Laser Printer,HP,285.28,352.8,11.19,1925,A,17133,272.39
+P081,Tower Server,Servers,Tower Server,Logitech,1462.94,2325.3,9.03,570,C,17721,366.62
+P082,Keyboard,Accessories,Keyboard,Lenovo,639.42,939.06,4.26,476,C,41264,362.92
+P083,NVMe Drive,Storage,NVMe Drive,Dell,1743.5,2390.16,8.7,1326,B,36373,496.42
+P084,SSD,Storage,SSD,HP,542.33,833.98,12.37,1185,A,37227,166.67
+P085,Gaming Laptop,Laptops,Gaming Laptop,Acer,340.94,478.43,1.46,873,B,12762,602.27
+P086,GPU,Components,GPU,Logitech,1212.45,1731.73,5.83,1271,B,24487,874.15
+P087,Motherboard,Components,Motherboard,HP,1158.83,1364.06,14.22,790,C,45993,289.92
+P088,LED Monitor,Monitors,LED Monitor,Lenovo,517.74,724.01,0.24,1287,C,43916,522.92
+P089,Gaming Laptop,Laptops,Gaming Laptop,Canon,611.8,781.41,1.25,843,C,22337,809.05
+P090,Switch,Networking,Switch,Lenovo,273.81,342.58,13.64,656,B,9679,153.67
+P091,Inkjet Printer,Printers,Inkjet Printer,Acer,906.35,1233.46,10.56,922,A,37798,585.98
+P092,Rack Server,Servers,Rack Server,Samsung,1216.17,1885.36,9.13,417,C,10985,306.03
+P093,Ultrabook,Laptops,Ultrabook,Lenovo,1651.77,2327.86,7.16,1699,C,33981,924.47
+P094,NVMe Drive,Storage,NVMe Drive,HP,899.98,1364.74,7.16,1201,C,26843,388.95
+P095,LED Monitor,Monitors,LED Monitor,Acer,693.12,1013.45,10.01,1185,C,41051,133.03
+P096,Curved Monitor,Monitors,Curved Monitor,Cisco,542.18,651.79,13,367,B,48100,882.43
+P097,Tower Server,Servers,Tower Server,Seagate,155.7,215.38,11.4,1645,C,33969,783.99
+P098,Switch,Networking,Switch,Canon,1120.98,1757.08,13.24,1357,B,12957,125.98
+P099,Access Point,Networking,Access Point,Logitech,358.84,501.61,6.24,825,A,12435,515.3
+P100,4K Monitor,Monitors,4K Monitor,Acer,1672.68,2298.71,7.73,924,A,32229,851.25
