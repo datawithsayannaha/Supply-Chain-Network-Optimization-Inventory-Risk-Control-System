@@ -4,7 +4,7 @@ This dashboard helps businesses optimize inventory, reduce stockout risk, improv
 
 An end-to-end Business Intelligence project built using:
 
-**Excel → Power Query → Power Pivot → DAX → Advanced Dashboarding**
+**Excel → Power Query → Power Pivot → DAX →  Dashboarding**
 
 ---
 
